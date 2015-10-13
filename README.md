@@ -1,4 +1,4 @@
-# Notable online writings on Data Science: A collection from random reading
+# Notable online writings on Data Science
 
 * [Data science done well looks easy - and that is a big problem for data scientists](http://simplystatistics.org/2015/03/17/data-science-done-well-looks-easy-and-that-is-a-big-problem-for-data-scientists/)
 * [How to Prepare Data For Machine Learning](http://machinelearningmastery.com/how-to-prepare-data-for-machine-learning/)
