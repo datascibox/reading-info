@@ -7,4 +7,5 @@
 * [Should you teach Python or R for data science?](http://www.dataschool.io/python-or-r-for-data-science/)
 * [Quick reference to Python in a single script](http://www.dataschool.io/python-quick-reference/)
 * [Choosing the right estimator](http://scikit-learn.org/stable/tutorial/machine_learning_map/)
+* [Cheat sheet: Data Visualisation in Python](http://www.analyticsvidhya.com/blog/2015/06/data-visualization-in-python-cheat-sheet/)
 
