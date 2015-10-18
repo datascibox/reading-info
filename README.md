@@ -9,5 +9,8 @@
 * [scikit-learn cheat sheet: Choosing the right estimator](http://scikit-learn.org/stable/tutorial/machine_learning_map/)
 * [Cheat sheet: Data Visualisation in Python](http://www.analyticsvidhya.com/blog/2015/06/data-visualization-in-python-cheat-sheet/)
 * [Why Data Scientists Need to be Good Data Storytellers](http://www.datasciencecentral.com/profiles/blogs/why-data-scientists-need-to-be-good-data-storytellers)
+* Sebastian Raschka -- [Why did you choose Python for Machine Learning?](https://github.com/datascibox/python-machine-learning-book/blob/master/faq/why_python.md)
+* Sebastian Raschka -- [Python, Machine Learning, and Language Wars: A Highly Subjective Point of View](http://sebastianraschka.com/blog/2015/why-python.html)
+* [9 Steps to Become a Data Scientist from Scratch](www.datasciencecentral.com/profiles/blogs/9-steps-to-become-a-data-scientist-from-scratch)
 * 
 
