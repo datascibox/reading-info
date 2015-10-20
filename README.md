@@ -12,5 +12,6 @@
 * Sebastian Raschka -- [Why did you choose Python for Machine Learning?](https://github.com/datascibox/python-machine-learning-book/blob/master/faq/why_python.md)
 * Sebastian Raschka -- [Python, Machine Learning, and Language Wars: A Highly Subjective Point of View](http://sebastianraschka.com/blog/2015/why-python.html)
 * [9 Steps to Become a Data Scientist from Scratch](www.datasciencecentral.com/profiles/blogs/9-steps-to-become-a-data-scientist-from-scratch)
+* [**8 Best Machine Learning Cheat Sheets**](http://devzum.com/2015/06/best-machine-learning-cheat-sheets/)
 * 
 
