@@ -1,5 +1,6 @@
 # Notable online writings on Data Science
 
+* [Làm sao để trở thành nhà khoa học dữ liệu?](http://bigsonata.com/lam-sao-de-tro-thanh-nha-khoa-hoc-du-lieu/)
 * [Data science done well looks easy - and that is a big problem for data scientists](http://simplystatistics.org/2015/03/17/data-science-done-well-looks-easy-and-that-is-a-big-problem-for-data-scientists/)
 * [How to Prepare Data for Machine Learning](http://machinelearningmastery.com/how-to-prepare-data-for-machine-learning/)
 * [DAT7 Course Repository](https://github.com/justmarkham/DAT7/blob/master/README.md):
@@ -13,5 +14,5 @@
 * Sebastian Raschka -- [Python, Machine Learning, and Language Wars: A Highly Subjective Point of View](http://sebastianraschka.com/blog/2015/why-python.html)
 * [9 Steps to Become a Data Scientist from Scratch](www.datasciencecentral.com/profiles/blogs/9-steps-to-become-a-data-scientist-from-scratch)
 * [**8 Best Machine Learning Cheat Sheets**](http://devzum.com/2015/06/best-machine-learning-cheat-sheets/)
+* [Use multiple CPU Cores with your Linux commands — awk, sed, bzip2, grep, wc, etc.](http://www.rankfocus.com/use-cpu-cores-linux-commands/)
 * 
-
