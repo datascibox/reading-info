@@ -17,4 +17,6 @@
 * [Use multiple CPU Cores with your Linux commands — awk, sed, bzip2, grep, wc, etc.](http://www.rankfocus.com/use-cpu-cores-linux-commands/)
 * **Christopher Nguyen** @ Adatao -- [What You Must Know About Big Data, Machine Learning & Deep Learning](http://adatao.com/blog/featured/2015/a16z-podcast-1/)
 * [*Deep Learning* paper in Nature](http://www.nature.com/nature/journal/v521/n7553/full/nature14539.html)
+* Quora: [Resources for Deep Learning](https://www.quora.com/What-are-some-good-books-papers-for-learning-deep-learning)
+* Online book [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/) with [code](https://github.com/mnielsen/neural-networks-and-deep-learning)
 * 
