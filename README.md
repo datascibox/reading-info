@@ -19,5 +19,5 @@
 * [*Deep Learning* paper in Nature](http://www.nature.com/nature/journal/v521/n7553/full/nature14539.html)
 * Quora: [Resources for Deep Learning](https://www.quora.com/What-are-some-good-books-papers-for-learning-deep-learning)
 * Online book [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/) with [code](https://github.com/mnielsen/neural-networks-and-deep-learning)
-* **Multiobjective Optimization for Ensemble of NNs** [paper CEC'03](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1299928)
+* **Multiobjective Optimization for Ensemble of NNs**: [ref. paper CEC'03](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1299928)
 * 
