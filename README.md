@@ -16,7 +16,7 @@
   5. Calculate Cost and Benefits
 * [A Step-by-Step Plan for Getting Your Company Started with Predictive Analytics – Part 1](http://www.datasciencecentral.com/profiles/blogs/a-step-by-step-plan-for-getting-your-company-started-with-predict)
 * [Data science done well looks easy - and that is a big problem for data scientists](http://simplystatistics.org/2015/03/17/data-science-done-well-looks-easy-and-that-is-a-big-problem-for-data-scientists/)
-* **Christopher Nguyen** @ Adatao -- [What You Must Know About Big Data, Machine Learning & Deep Learning](http://adatao.com/blog/featured/2015/a16z-podcast-1/)
+* Christopher Nguyen @ **Adatao** -- [What You Must Know About Big Data, Machine Learning & Deep Learning](http://adatao.com/blog/featured/2015/a16z-podcast-1/)
 
 
 
@@ -36,7 +36,7 @@
 
 
 #### Deep learning
-* [*Deep Learning* paper in Nature](http://www.nature.com/nature/journal/v521/n7553/full/nature14539.html)
+* [Deep Learning paper in Nature](http://www.nature.com/nature/journal/v521/n7553/full/nature14539.html)
 * Quora: [Resources for Deep Learning](https://www.quora.com/What-are-some-good-books-papers-for-learning-deep-learning)
 * Online book [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/) with [code](https://github.com/mnielsen/neural-networks-and-deep-learning)
 * **Multiobjective Optimization for Ensemble of NNs:** [ref paper CEC'03](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1299928)
