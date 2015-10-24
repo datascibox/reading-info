@@ -2,6 +2,12 @@
 
 * [Làm sao để trở thành nhà khoa học dữ liệu?](http://bigsonata.com/lam-sao-de-tro-thanh-nha-khoa-hoc-du-lieu/)
 * [9 Must-Have Skills You Need to Become a Data Scientist](http://www.kdnuggets.com/2014/11/9-must-have-skills-data-scientist.html)
+* [5 Unbelievable Ways You Can Be a Better Data Scientist in Business](http://www.datasciencecentral.com/profiles/blogs/5-unbelievable-ways-you-can-be-a-better-data-scientist-in)
+  1. Conduct a Resource Inventory
+  2. Understand the Requirements, Assumptions, and Constraints
+  3. Determine Risk and Contingencies
+  4. Document Meaning: develop a working glossary of relevant business terminology
+  5. Calculate Cost and Benefits
 * [Data science done well looks easy - and that is a big problem for data scientists](http://simplystatistics.org/2015/03/17/data-science-done-well-looks-easy-and-that-is-a-big-problem-for-data-scientists/)
 * [How to Prepare Data for Machine Learning](http://machinelearningmastery.com/how-to-prepare-data-for-machine-learning/)
 * [DAT7 Course Repository](https://github.com/justmarkham/DAT7/blob/master/README.md):
