@@ -22,7 +22,7 @@
 
 ## Technical resources
 
-* [A Tour of Machine Learning Algorithms *(a nice collection)*](http://www.datasciencecentral.com/profiles/blogs/a-tour-of-machine-learning-algorithms-1)
+* [A Tour of Machine Learning Algorithms **[a nice collection]**](http://www.datasciencecentral.com/profiles/blogs/a-tour-of-machine-learning-algorithms-1)
 * [How to Prepare Data for Machine Learning](http://machinelearningmastery.com/how-to-prepare-data-for-machine-learning/)
 * [DAT7 Course Repository](https://github.com/justmarkham/DAT7/blob/master/README.md):
   Materials for General Assembly's Data Science course in Washington, DC (6/1/15 - 8/12/15) by Kevin Markham
