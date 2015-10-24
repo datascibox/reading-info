@@ -6,7 +6,7 @@
 * [Làm sao để trở thành nhà khoa học dữ liệu?](http://bigsonata.com/lam-sao-de-tro-thanh-nha-khoa-hoc-du-lieu/)
 * [9 Must-Have Skills You Need to Become a Data Scientist](http://www.kdnuggets.com/2014/11/9-must-have-skills-data-scientist.html)
 * [9 Steps to Become a Data Scientist from Scratch](www.datasciencecentral.com/profiles/blogs/9-steps-to-become-a-data-scientist-from-scratch)
-* [Why Data Scientists Need to be Good Data Storytellers](http://www.datasciencecentral.com/profiles/blogs/why-data-scientists-need-to-be-good-data-storytellers)
+* [Why Data Scientists Need to be Good **Data Storytellers**](http://www.datasciencecentral.com/profiles/blogs/why-data-scientists-need-to-be-good-data-storytellers)
 * [20 Short Tutorials All Data Scientists Should Read (and Practice)](http://www.datasciencecentral.com/profiles/blogs/17-short-tutorials-all-data-scientists-should-read-and-practice)
 * [5 Unbelievable Ways You Can Be a Better Data Scientist in Business](http://www.datasciencecentral.com/profiles/blogs/5-unbelievable-ways-you-can-be-a-better-data-scientist-in)
   1. Conduct a Resource Inventory
