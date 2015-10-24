@@ -22,6 +22,7 @@
 
 ## Technical resources
 
+* [A Tour of Machine Learning Algorithms *(a nice collection)*](http://www.datasciencecentral.com/profiles/blogs/a-tour-of-machine-learning-algorithms-1)
 * [How to Prepare Data for Machine Learning](http://machinelearningmastery.com/how-to-prepare-data-for-machine-learning/)
 * [DAT7 Course Repository](https://github.com/justmarkham/DAT7/blob/master/README.md):
   Materials for General Assembly's Data Science course in Washington, DC (6/1/15 - 8/12/15) by Kevin Markham
@@ -33,6 +34,7 @@
 * [Cheat sheet: Data Visualisation in Python](http://www.analyticsvidhya.com/blog/2015/06/data-visualization-in-python-cheat-sheet/)
 * [**8 Best Machine Learning Cheat Sheets**](http://devzum.com/2015/06/best-machine-learning-cheat-sheets/)
 * [Use multiple CPU Cores with your Linux commands — awk, sed, bzip2, grep, wc, etc.](http://www.rankfocus.com/use-cpu-cores-linux-commands/)
+* [Data Science Test - How do you rank?](http://www.datasciencecentral.com/profiles/blogs/data-science-test-how-do-you-rank)
 
 
 #### Deep learning
