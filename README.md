@@ -1,7 +1,7 @@
 # Notable online writings on Data Science
 
 
-## General information
+## General tips
 
 * [Làm sao để trở thành nhà khoa học dữ liệu?](http://bigsonata.com/lam-sao-de-tro-thanh-nha-khoa-hoc-du-lieu/)
 * [9 Must-Have Skills You Need to Become a Data Scientist](http://www.kdnuggets.com/2014/11/9-must-have-skills-data-scientist.html)
