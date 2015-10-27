@@ -1,7 +1,7 @@
 # Notable online writings on Data Science
 
 
-## General advice
+## General information
 
 * [Làm sao để trở thành nhà khoa học dữ liệu?](http://bigsonata.com/lam-sao-de-tro-thanh-nha-khoa-hoc-du-lieu/)
 * [9 Must-Have Skills You Need to Become a Data Scientist](http://www.kdnuggets.com/2014/11/9-must-have-skills-data-scientist.html)
@@ -17,6 +17,7 @@
 * [A Step-by-Step Plan for Getting Your Company Started with Predictive Analytics – Part 1](http://www.datasciencecentral.com/profiles/blogs/a-step-by-step-plan-for-getting-your-company-started-with-predict)
 * [Data science done well looks easy - and that is a big problem for data scientists](http://simplystatistics.org/2015/03/17/data-science-done-well-looks-easy-and-that-is-a-big-problem-for-data-scientists/)
 * Christopher Nguyen @ **Adatao** -- [What You Must Know About Big Data, Machine Learning & Deep Learning](http://adatao.com/blog/featured/2015/a16z-podcast-1/)
+* [Ingredients of Data Science](http://www.hadoop360.com/blog/ingredients-of-data-science)
 
 
 
