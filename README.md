@@ -18,6 +18,7 @@
 * [Data science done well looks easy - and that is a big problem for data scientists](http://simplystatistics.org/2015/03/17/data-science-done-well-looks-easy-and-that-is-a-big-problem-for-data-scientists/)
 * Christopher Nguyen @ **Adatao** -- [What You Must Know About Big Data, Machine Learning & Deep Learning](http://adatao.com/blog/featured/2015/a16z-podcast-1/)
 * [Ingredients of Data Science](http://www.hadoop360.com/blog/ingredients-of-data-science)
+* [How Machines Learn (And You Win)](https://hbr.org/2015/11/how-machines-learn-and-you-win)
 
 
 
