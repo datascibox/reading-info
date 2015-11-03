@@ -19,6 +19,8 @@
 * Christopher Nguyen @ **Adatao** -- [What You Must Know About Big Data, Machine Learning & Deep Learning](http://adatao.com/blog/featured/2015/a16z-podcast-1/)
 * [Ingredients of Data Science](http://www.hadoop360.com/blog/ingredients-of-data-science)
 * [How Machines Learn (And You Win)](https://hbr.org/2015/11/how-machines-learn-and-you-win)
+* [What’s the Difference Between Data Science and Statistics?](priceonomics.com/whats-the-difference-between-data-science-and/)
+* [23 Great Schools with Master’s Programs in Data Science](www.mastersindatascience.org/schools/23-great-schools-with-masters-programs-in-data-science/)
 
 
 
