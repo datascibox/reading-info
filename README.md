@@ -40,7 +40,7 @@
 * [Use multiple CPU Cores with your Linux commands — awk, sed, bzip2, grep, wc, etc.](http://www.rankfocus.com/use-cpu-cores-linux-commands/)
 * [Data Science Test - How do you rank?](http://www.datasciencecentral.com/profiles/blogs/data-science-test-how-do-you-rank)
 * [Overview of Python Visualization Tools](http://pbpython.com/visualization-tools-1.html) [nice plots from different packages]
-* [A Refresher on Regression Analysis](https://hbr.org/2015/11/a-refresher-on-regression-analysis)
+* [A Refresher on Regression Analysis (Harvard Business Review)](https://hbr.org/2015/11/a-refresher-on-regression-analysis)
 
 
 #### Deep learning
