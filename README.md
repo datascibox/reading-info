@@ -5,7 +5,7 @@
 
 * [Làm sao để trở thành nhà khoa học dữ liệu?](http://bigsonata.com/lam-sao-de-tro-thanh-nha-khoa-hoc-du-lieu/)
 * [9 Must-Have Skills You Need to Become a Data Scientist](http://www.kdnuggets.com/2014/11/9-must-have-skills-data-scientist.html)
-* [9 Steps to Become a Data Scientist from Scratch](www.datasciencecentral.com/profiles/blogs/9-steps-to-become-a-data-scientist-from-scratch)
+* [9 Steps to Become a Data Scientist from Scratch](http://www.datasciencecentral.com/profiles/blogs/9-steps-to-become-a-data-scientist-from-scratch)
 * [Why Data Scientists Need to be Good **Data Storytellers**](http://www.datasciencecentral.com/profiles/blogs/why-data-scientists-need-to-be-good-data-storytellers)
 * [20 Short Tutorials All Data Scientists Should Read (and Practice)](http://www.datasciencecentral.com/profiles/blogs/17-short-tutorials-all-data-scientists-should-read-and-practice)
 * [5 Unbelievable Ways You Can Be a Better Data Scientist in Business](http://www.datasciencecentral.com/profiles/blogs/5-unbelievable-ways-you-can-be-a-better-data-scientist-in)
@@ -19,8 +19,8 @@
 * Christopher Nguyen @ **Adatao** -- [What You Must Know About Big Data, Machine Learning & Deep Learning](http://adatao.com/blog/featured/2015/a16z-podcast-1/)
 * [Ingredients of Data Science](http://www.hadoop360.com/blog/ingredients-of-data-science)
 * [How Machines Learn (And You Win)](https://hbr.org/2015/11/how-machines-learn-and-you-win)
-* [What’s the Difference Between Data Science and Statistics?](priceonomics.com/whats-the-difference-between-data-science-and/)
-* [23 Great Schools with Master’s Programs in Data Science](www.mastersindatascience.org/schools/23-great-schools-with-masters-programs-in-data-science/)
+* [What’s the Difference Between Data Science and Statistics?](http://priceonomics.com/whats-the-difference-between-data-science-and/)
+* [23 Great Schools with Master’s Programs in Data Science](http://www.mastersindatascience.org/schools/23-great-schools-with-masters-programs-in-data-science/)
 
 
 
@@ -41,7 +41,7 @@
 * [Data Science Test - How do you rank?](http://www.datasciencecentral.com/profiles/blogs/data-science-test-how-do-you-rank)
 * [Overview of Python Visualization Tools](http://pbpython.com/visualization-tools-1.html) [nice plots from different packages]
 * [A Refresher on Regression Analysis (Harvard Business Review)](https://hbr.org/2015/11/a-refresher-on-regression-analysis)
-* Fantastic Introduction: [Understanding Convolutional Neural Networks for NLP](www.wildml.com/2015/11/understanding-convolutional-neural-networks-for-nlp/)
+* Fantastic Introduction: [Understanding Convolutional Neural Networks for NLP](http://www.wildml.com/2015/11/understanding-convolutional-neural-networks-for-nlp/)
 
 
 #### Deep learning
