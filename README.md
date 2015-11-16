@@ -21,7 +21,7 @@
 * [How Machines Learn (And You Win)](https://hbr.org/2015/11/how-machines-learn-and-you-win)
 * [What’s the Difference Between Data Science and Statistics?](http://priceonomics.com/whats-the-difference-between-data-science-and/)
 * [23 Great Schools with Master’s Programs in Data Science](http://www.mastersindatascience.org/schools/23-great-schools-with-masters-programs-in-data-science/)
-* [Who Does What in Data Science (Infographic)](http://whatsthebigdata.com/2015/11/12/who-does-what-in-data-science-infographic/)
+* Nice: [Who Does What in Data Science (Infographic)](http://whatsthebigdata.com/2015/11/12/who-does-what-in-data-science-infographic/)
 * [Great Infographic: Interesting Big Data Facts](https://dzone.com/articles/great-infographic-interesting-big-data-facts)
 
 
