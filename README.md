@@ -44,6 +44,7 @@
 * [Overview of Python Visualization Tools](http://pbpython.com/visualization-tools-1.html) [nice plots from different packages]
 * [A Refresher on Regression Analysis (Harvard Business Review)](https://hbr.org/2015/11/a-refresher-on-regression-analysis)
 * Fantastic Introduction: [Understanding Convolutional Neural Networks for NLP](http://www.wildml.com/2015/11/understanding-convolutional-neural-networks-for-nlp/)
+* [VELES -- Distributed machine learning platform ](https://velesnet.ml/)
 
 
 #### Deep learning
