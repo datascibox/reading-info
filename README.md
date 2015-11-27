@@ -45,6 +45,7 @@
 * [A Refresher on Regression Analysis (Harvard Business Review)](https://hbr.org/2015/11/a-refresher-on-regression-analysis)
 * Fantastic Introduction: [Understanding Convolutional Neural Networks for NLP](http://www.wildml.com/2015/11/understanding-convolutional-neural-networks-for-nlp/)
 * [VELES -- Distributed machine learning platform ](https://velesnet.ml/)
+* [How to crawl a quarter billion webpages in 40 hours](http://www.michaelnielsen.org/ddi/how-to-crawl-a-quarter-billion-webpages-in-40-hours/)
 
 
 #### Deep learning
