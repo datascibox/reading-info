@@ -46,6 +46,10 @@
 * Fantastic Introduction: [Understanding Convolutional Neural Networks for NLP](http://www.wildml.com/2015/11/understanding-convolutional-neural-networks-for-nlp/)
 * [VELES -- Distributed machine learning platform ](https://velesnet.ml/)
 * [How to crawl a quarter billion webpages in 40 hours](http://www.michaelnielsen.org/ddi/how-to-crawl-a-quarter-billion-webpages-in-40-hours/)
+* Kaggle R graphs: [The Working Moms](https://www.kaggle.com/huili0140/2013-american-community-survey/the-working-moms)
+* Kaggle R graphs: [Passing the Tests: Strategies Used in CERN's Flavour of Physics](http://blog.kaggle.com/2015/10/27/passing-the-tests-strategies-used-in-cerns-flavour-of-physics/)
+* [Implement These 5 Powerful Probability Distributions In Python](http://hpc-asia.com/how-to-implement-these-5-powerful-probability-distributions-in-python/)
+* [Probability Distributions and the Central Limit Theorem](http://nbviewer.ipython.org/url/atwallab.cshl.edu/teaching/distributions.ipynb)
 
 
 #### Deep learning
