@@ -50,6 +50,7 @@
 * Kaggle R graphs: [Passing the Tests: Strategies Used in CERN's Flavour of Physics](http://blog.kaggle.com/2015/10/27/passing-the-tests-strategies-used-in-cerns-flavour-of-physics/)
 * [Implement These 5 Powerful Probability Distributions In Python](http://hpc-asia.com/how-to-implement-these-5-powerful-probability-distributions-in-python/)
 * [Probability Distributions and the Central Limit Theorem](http://nbviewer.ipython.org/url/atwallab.cshl.edu/teaching/distributions.ipynb)
+* [More Is Always Better: The Power Of Simple Ensembles](http://www.overkillanalytics.net/more-is-always-better-the-power-of-simple-ensembles/)
 
 
 #### Deep learning
