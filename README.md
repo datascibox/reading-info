@@ -52,6 +52,7 @@
 * [Probability Distributions and the Central Limit Theorem](http://nbviewer.ipython.org/url/atwallab.cshl.edu/teaching/distributions.ipynb)
 * [More Is Always Better: The Power Of Simple Ensembles](http://www.overkillanalytics.net/more-is-always-better-the-power-of-simple-ensembles/)
 * [Quản lý version cho dữ liệu](http://blog.richanchor.com/2016/03/07/introduce-about-iteration-data-in-rich-anchor-recomendation/)
+* [Top 10 Machine Learning Algorithms](http://www.datasciencecentral.com/forum/topics/0-top-machine-learning-algorithms)
 
 
 #### Deep learning
