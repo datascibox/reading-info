@@ -3,6 +3,7 @@
 
 ## General tips
 
+* [100 Active Blogs on Analytics, Big Data, Data Mining, Data Science, Machine Learning](http://www.kdnuggets.com/2016/03/100-active-blogs-analytics-big-data-science-machine-learning.html)
 * [Làm sao để trở thành nhà khoa học dữ liệu?](http://bigsonata.com/lam-sao-de-tro-thanh-nha-khoa-hoc-du-lieu/)
 * [9 Must-Have Skills You Need to Become a Data Scientist](http://www.kdnuggets.com/2014/11/9-must-have-skills-data-scientist.html)
 * [9 Steps to Become a Data Scientist from Scratch](http://www.datasciencecentral.com/profiles/blogs/9-steps-to-become-a-data-scientist-from-scratch)
@@ -53,6 +54,7 @@
 * [More Is Always Better: The Power Of Simple Ensembles](http://www.overkillanalytics.net/more-is-always-better-the-power-of-simple-ensembles/)
 * [Quản lý version cho dữ liệu](http://blog.richanchor.com/2016/03/07/introduce-about-iteration-data-in-rich-anchor-recomendation/)
 * [**Top 10 Machine Learning Algorithms**](http://www.datasciencecentral.com/forum/topics/0-top-machine-learning-algorithms)
+* [100 Active Blogs on Analytics, Big Data, Data Mining, Data Science, Machine Learning](http://www.kdnuggets.com/2016/03/100-active-blogs-analytics-big-data-science-machine-learning.html)
 
 
 #### Deep learning
