@@ -3,6 +3,7 @@
 
 ## General tips
 
+* [**12 Algorithms** Every Data Scientist Should Know](https://cdn.datafloq.com/cms/2016/04/25/12-algorithms-every-data-scientist-should-know.jpg)
 * [**100 Active Blogs** on Analytics, Big Data, Data Mining, Data Science, Machine Learning](http://www.kdnuggets.com/2016/03/100-active-blogs-analytics-big-data-science-machine-learning.html)
 * [Làm sao để trở thành nhà khoa học dữ liệu?](http://bigsonata.com/lam-sao-de-tro-thanh-nha-khoa-hoc-du-lieu/)
 * [9 Must-Have Skills You Need to Become a Data Scientist](http://www.kdnuggets.com/2014/11/9-must-have-skills-data-scientist.html)
